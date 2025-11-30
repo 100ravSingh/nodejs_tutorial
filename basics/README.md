@@ -162,5 +162,3 @@ node server.js
 Open browser → [http://localhost:5000](http://localhost:5000)
 
 ---
-
-Choose one number and we’ll continue.
